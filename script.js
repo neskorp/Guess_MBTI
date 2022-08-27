@@ -91,7 +91,7 @@ function clearStatusClass(element) {
 
 const questions = [
     {
-        name: 'Jim_Carrey.png',
+        name: 'Jim_Carrey',
         img_link: "./images/Jim_Carrey.png",
         correct_answer: 'ENFP',
     },
